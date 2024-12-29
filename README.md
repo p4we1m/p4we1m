@@ -32,10 +32,6 @@ Jestem inżynierem wsparcia zdalnego w Rockwell Automation, specjalizującym si�
 - Wsparcie techniczne w zakresie automatyki i integracji systemów IT.  
 - Rozwiązywanie problemów z urządzeniami przemysłowymi i oprogramowaniem.  
 
-### Lifeguard  
-**Różne obiekty sportowe** (2019 – obecnie)  
-- Zapewnienie bezpieczeństwa na obiektach wodnych.  
-
 ### CNC Machine Operation Intern  
 **Mazak Katowice** (2019)  
 - Obsługa maszyn CNC i wsparcie konfiguracji sprzętowej.  
